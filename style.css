@@ -1,0 +1,78 @@
+.navbar{
+    padding: 20px;
+}
+ 
+.text-area1{
+    font-size: large;
+    text-align: center;
+    margin-top: 100px;
+    padding: 0%;
+    border: 0px;
+}
+
+.margin1{
+     margin-left: 20%;
+     margin-right: 20%;
+}
+
+
+.moving-img{
+    height: 300px;
+    width: 700px;
+    margin-top: 50px;
+    padding: 0px;
+}
+
+.btn-primary{
+    margin-right: 5px;
+    height: 50px;
+    width: 150px; 
+}
+
+.btn-light{
+    margin-left: 5px;
+    height: 50px;
+    width: 150px;
+}
+ 
+.card{
+    margin-left: 0px;
+    justify-content: right;
+    border: none;
+
+}
+
+.card >img{
+    
+    padding: 5px;
+    margin-right: 2500px;
+ 
+    right: 150px;
+}
+
+#arrow{
+    padding: 0px;
+    display: inline;
+}
+
+
+hr{
+    margin-top: 0%;
+}
+
+.card-img-top{
+    background-color: lightblue;
+    margin-right: 200px;
+    margin-left: 10px;
+    margin: 25px;
+    margin-top: 25px;
+    padding: 10px;
+    border: 0px solid;
+    border-radius: 10px;
+    width: 80px;
+}
+
+.Features{
+    margin: 200px;
+}
+
